@@ -21,6 +21,6 @@ Username: admin
 Password: 12345
 
 ## Screenshot
-See the uploaded screenshots in this repository.
+See the uploaded screenshots in the folder named: ROBLES_CT5_ACTLOGIN.
 
 **Python GUI Activity | Tkinter Login Form**
